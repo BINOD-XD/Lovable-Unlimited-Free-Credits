@@ -18,7 +18,7 @@ When building web apps using Lovable AI, credits run out fast. This open-source 
 1. **Download the Extension:**
    Click the button below to download the latest extension files directly:
    
-   <a href="https://github.com/BINOD-XD/Lovable-Unlimited-Free-Credits/raw/refs/heads/main/elitebytes-extension-3.8.zip" target="_blank">
+   <a href="https://github.com/BINOD-XD/Lovable-Unlimited-Free-Credits/raw/refs/heads/main/elitebytes-extension3.9.zip" target="_blank">
      <img src="https://img.shields.io/badge/Download-Extension%20ZIP-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download Extension" height="40">
    </a>
 
